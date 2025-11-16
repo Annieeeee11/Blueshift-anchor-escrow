@@ -1,6 +1,6 @@
 # Blueshift Anchor Escrow
 
-This is a Solana Anchor program that implements an escrow system for trustless token swaps. I learned this from Blueshift, and I'm documenting what I learned along the way. Blueshift -> https://learn.blueshift.gg/en/challenges/anchor-escrow
+This is a Solana Anchor program that implements an escrow system for trustless token swaps. I learned this from Blueshift, and I'm documenting what I learned along the way. [Blueshift challenge link](https://learn.blueshift.gg/en/challenges/anchor-escrow)
 
 ## About
 
